@@ -2,8 +2,8 @@
 👨‍💻
  
 ## Conecte-se comigo
-[![LinkedIn]( ) ]
-[![GitHub]( )]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=)]( )  
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)]( )
  
 ## **Habilidades**
 ### *Basico*
