@@ -2,8 +2,8 @@
 👨‍💻
  
 ## Conecte-se comigo
-[![LinkedIn]( )   
-[![GitHub]( )
+[![LinkedIn]( ) ]
+[![GitHub]( )]
  
 ## **Habilidades**
 ### *Basico*
