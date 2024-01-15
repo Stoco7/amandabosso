@@ -1,16 +1,26 @@
-### Hi there 👋
+# **AMANDA BOSSO**
+👨‍💻
+ 
+## Conecte-se comigo
+[![LinkedIn]( )   
+[![GitHub]( )
+ 
+## **Habilidades**
+### *Basico*
+Fundamentos de Lógica de Programação 
 
-<!--
-**amandabosso/amandabosso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
+## **Meus cursos**
+**MICROCAMP** - Manutenção de computadores
+ 
+**SENAC** - Técnico em informática
+ 
+## **Sistema Operacional**
+ 
+![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0) ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624)
+ 
+## **Linguagens de Programação**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+ 
+## **Ferramentas**
+![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
