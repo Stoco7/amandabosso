@@ -1,5 +1,5 @@
 # **AMANDA BOSSO**
-👨‍💻
+💻
  
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=)]( )  
@@ -11,7 +11,7 @@ Fundamentos de Lógica de Programação
 
  
 ## **Meus cursos**
-**MICROCAMP** - Manutenção de computadores
+**MICROCAMP** - ---------
  
 **SENAC** - Técnico em informática
  
